@@ -1,14 +1,14 @@
 # SACHI-MD
 SACHI MD simple whts app bot
-## RCD MD V 2 EXPIRED 
+## HESHAN MD V2 BOT EXPIRED 
 
 ### SACHI MD BOT COMING SOON 📍
-   <a><img src='https://i.ibb.co/mMBx82m/934562b66552035a.jpg'/></a><a><img src='https://i.ibb.co/mMBx82m/934562b66552035a.jpg'/></a>
+   <a><img src='https://i.ibb.co/mMBx82m/934562b66552035a.jpg'/></a><a><img src=''/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Created Rcd Team ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Created HESHAN MD⚡</u>
 </p>     
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ RCD-+MD-+V2 BUTTON★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+RCD+TEAM;RELEASED+DATE+25%2F10%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ SACI-+MD-+UN BUTTON★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+HESHAN+MD;RELEASED+DATE+25%2F10%2F2025." alt="Typing SVG" /></a>
  </p>
 
 <p align="center">
@@ -16,17 +16,17 @@ SACHI MD simple whts app bot
     <img src="https://files.catbox.moe/wuyr41.jpg" width="249">
 
 
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src='https://i.ibb.co/mMBx82m/934562b66552035a.jpg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
      
    <br>
   </br>
 
       
 </p>
-<h1 align="center"> RCD MD V2
+<h1 align="center"> SACH MD 
 </h1>
 <p align="center"> 
-  Hemlo, I am "RCD MD V2" a WhatsApp bot create and code by Rcd Team to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Hemlo, I am "SACHI MD" a WhatsApp bot create and code by HESHAN MD to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 
 
@@ -76,7 +76,7 @@ SACHI MD simple whts app bot
 </h2>
    
 
-<h2 align="center">  <a href="https://github.com/rcd-git-hub-official/RCD-MD?fork"><img src="https://img.shields.io/badge/FORK RCD MD V2-h?color=white&style=for-the-badge&logo=stackshare" />
+<h2 align="center">  <a href="https://github.com/Ddinuwa/SACHI-MD/edit/main/README.md"><img src="https://img.shields.io/badge/FORK RCD MD V2-h?color=white&style=for-the-badge&logo=stackshare" />
 </a>
 </h2>
  
